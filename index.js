@@ -15,3 +15,5 @@ const theSum = evensArray.reduce((sum, anEvenNum) => {
 console.log("Start array is ", aNumArray)
 console.log("Evens array is ", evensArray)
 console.log("The sum of evens", theSum)
+
+console.log('now trying git init, git ....')
